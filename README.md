@@ -1,21 +1,26 @@
-# Weather_Web_Application
-A program that uses open weather API to give current weather report of your location
-
+# Zaguir food website
+A responsive and modern website built for a food-related business using HTML, CSS, and JavaScript.
+## Zaguir food website
+Responsive Restaurant Website Design Using HTML CSS & JavaScript
+Contains animations when scrolling.
+Smooth scrolling in each section.
+Includes a dark & light theme.
+Developed first with the Mobile First methodology, then for desktop.
+Compatible with all mobile devices and with a beautiful and pleasant user interface.
 ## Technologies Used
   - HTML
   - CSS
   - JAVASCRIPT
   
-
 ## Project Decription 
-The project description can be found in the [Google Slide](https://docs.google.com/presentation/d/1YioKP2jSoejZb6KvlINCkHuQDWSTXJ8_gzkV1wQozk8/edit?usp=sharing) Link
+The project description can be found in the [Google Slide](https://drive.google.com/file/d/1QKmeeMag0iiPd9V9qB2S0q5zA5hxmX7l/view?usp=sharing) Link
 
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img src="https://user-images.githubusercontent.com/99515673/225871316-8aa48ae7-b092-458c-ba8f-f4be2af1da59.png" width="800"/>
+          <img src="/preview.png" width="800"/>
      </div>
 </div>
 
 # Application 
-[Weather-Web-App](https://weather-web-application-zeta.vercel.app/)
+[Zaguir-food-Website](https://abderrahmanezaguir.github.io/Zaguir-food-/)
